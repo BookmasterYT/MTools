@@ -1,4 +1,4 @@
-# MTools v1.0
+# MTools v0.1.0-alpha
 #### (currently requires ``pygame`` and ``termcolor`` installed)
 My personal python library with numerous random classes and methods that I use as shortcuts. See below for details on what it contains.
 
